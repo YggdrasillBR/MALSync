@@ -1,16 +1,4 @@
 {
-  "0.10.0": {
-    "iframe": []
-  },
-  "0.10.1": {
-    "iframe": [
-      "*://*.mixdrop.sx/e/*",
-      "*://*.mixdrop.ms/e/*",
-      "*://brucevotewithin.com/e/*",
-      "*://rebeccaneverbase.com/e/*",
-      "*://c4qhk0je.xyz/e/*"
-    ]
-  },
   "0.10.2": {
     "AsuraScans": [
       "*://*.asuracomic.net/*"
@@ -66,39 +54,120 @@
     ]
   },
   "0.10.4": {
+    "Anime365": [
+      "*://smotret-anime.org/catalog/*",
+      "*://smotret-anime.online/catalog/*",
+      "*://smotret-anime.com/catalog/*"
+    ],
+    "AnimeGO": [
+      "*://animego.me/anime/*"
+    ],
+    "AnimeUnity": [
+      "*://*.animeunity.so/anime/*"
+    ],
     "AnimeXin": [
       "*://animexin.top/*"
     ],
-    "Bakashi": [
-      "*://bakashi.net/*"
-    ],
     "FlameScans": [
-      "*://flamecomics.me/*"
+      "*://flamecomics.me/*",
+      "*://flamecomics.xyz/*"
     ],
     "Gogoanime": [
       "*://*.gogoanime3.cc/*",
       "*://*.anitaku.bz/*"
+    ],
+    "tmofans": [
+      "*://zonatmo.com/*"
+    ],
+    "Voiranime": [
+      "*://*.voiranime.com/*"
     ],
     "Zoro": [
       "*://hianime.nz/*",
       "*://hianime.mn/*",
       "*://hianime.sx/*"
     ],
-    "tmofans": [
-      "*://zonatmo.com/*"
-    ],
     "iframe": [
       "*://*.jwplayerhls.com/*",
       "*://*.videzz.net/*",
       "*://geo.dailymotion.com/*",
+      "*://smotret-anime.org/translations/embed/*",
+      "*://smotret-anime.online/translations/embed/*",
+      "*://smotret-anime.com/translations/embed/*",
       "*://*.s3embtaku.pro/*",
       "*://dood.li/e/*",
       "*://bethshouldercan.com/e/*",
       "*://sandratableother.com/e/*",
+      "*://robertordercharacter.com/e/*",
+      "*://omegadthree.com/*",
       "*://hlswish.com/e/*",
+      "*://rogeriobetin.com/*",
+      "*://nvlabs-fi-cdn.q9x.in/*",
       "*://oneupload.to/*",
       "*://player.vimeo.com/*",
-      "*://rumble.com/embed/*"
+      "*://fle-rvd0i9o8-moo.com/*",
+      "*://dhtpre.com/*"
+    ]
+  },
+  "0.11.0": {
+    "KickAssAnime": [
+      "*://*.kaa.mx/*"
+    ],
+    "TRanimeizle": [
+      "*://*.tranimeizle.top/*"
+    ],
+    "iframe": [
+      "*://maxfinishseveral.com/e/*",
+      "*://krussdomi.com/*",
+      "*://filemoon.sx/lol/*",
+      "*://kerapoxy.cc/lol/*",
+      "*://vpcxz19p.xyz/lol/*",
+      "*://filemoon.top/lol/*",
+      "*://fmoonembed.pro/lol/*",
+      "*://rgeyyddl.skin/lol/*",
+      "*://designparty.sx/lol/*",
+      "*://c4qhk0je.xyz/lol/*",
+      "*://1azayf9w.xyz/lol/*",
+      "*://81u6xl9d.xyz/lol/*",
+      "*://gorro-chfzoaas.fun/e/*",
+      "*://gorro-chfzoaas.fun/lol/*",
+      "*://animenosub.upn.one/#*",
+      "*://*.bunniescdn.online/*",
+      "*://megaup.cc/e/*"
+    ]
+  },
+  "0.11.1": {
+    "Anime365": [
+      "*://smotret-anime.ru/catalog/*",
+      "*://smotretanime.ru/catalog/*"
+    ],
+    "AnimeXin": [
+      "*://animexin.dev/*"
+    ],
+    "Animeworld": [
+      "*://*.animeworld.ac/play/*"
+    ],
+    "Miruro": [
+      "*://*.miruro.to/*"
+    ],
+    "Zoro": [
+      "*://hianime.bz/*",
+      "*://hianime.pe/*",
+      "*://hianimez.to/*",
+      "*://hianimez.is/*"
+    ],
+    "iframe": [
+      "*://alejandrocenturyoil.com/e/*",
+      "*://heatherwholeinvolve.com/e/*",
+      "*://nathanfromsubject.com/e/*",
+      "*://jennifercertaindevelopment.com/e/*",
+      "*://richardsignfish.com/e/*",
+      "*://www.animeworld.ac/api/episode/serverPlayerAnimeWorld?id=*",
+      "*://z7ihwgqj.fun/*",
+      "*://megacloud.club/*",
+      "*://megacloud.blog/*",
+      "*://swishsrv.com/e/*",
+      "*://boosterx.stream/*"
     ]
   }
 }

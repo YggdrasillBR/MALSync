@@ -516,12 +516,24 @@
         "description": "Search text"
     },
     "correction_NoMal": {
-        "message": "Si el anime/manga no se puede encontrar en MAL",
-        "description": "Anime/Manga not found in MAL"
+        "message": "Si el anime/manga no se puede encontrar en $page$",
+        "description": "Anime/Manga not found in MAL",
+        "placeholders": {
+            "page": {
+                "content": "$1",
+                "example": "MAL"
+            }
+        }
     },
     "correction_NoEntry": {
-        "message": "No hay entrada en MyAnimeList",
-        "description": "No entry on MyAnimeList"
+        "message": "No hay entrada en $page$",
+        "description": "No entry on MyAnimeList",
+        "placeholders": {
+            "page": {
+                "content": "$1",
+                "example": "MAL"
+            }
+        }
     },
     "correction_NewOffset": {
         "message": "Nuevo contador alternativo ($offset$) establecido.",
@@ -1432,8 +1444,14 @@
         "description": "Info table on overview - Broadcast: Wednesday at 21:30 (JST)"
     },
     "settings_Mangasync_readerTracking": {
-        "message": "Sincronizar manga después de 90% de las páginas",
-        "description": "Option to track the reading progress of a manga and if 90% of the manga is read, set the chapter to read"
+        "message": "Sincronizar manga después de $mangaCompletionPercentage$% de las páginas",
+        "description": "Option to track the reading progress of a manga and if 90% of the manga is read, set the chapter to read",
+        "placeholders": {
+            "mangaCompletionPercentage": {
+                "content": "$1",
+                "example": "90"
+            }
+        }
     },
     "back": {
         "message": "Atrás",

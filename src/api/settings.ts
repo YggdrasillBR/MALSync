@@ -8,6 +8,7 @@ export const settingsObj = {
     autoTrackingModemanga: 'instant',
     enablePages: {},
     forceEn: false,
+    forceEnglishTitles: false,
     rpc: true,
     presenceLargeImage: 'cover',
     presenceShowButtons: true,
@@ -23,6 +24,7 @@ export const settingsObj = {
     malResume: true,
     usedPage: true,
     epPredictions: true,
+    mangaCompletionPercentage: 90,
 
     theme: 'auto',
     themeSidebars: true,
@@ -53,7 +55,6 @@ export const settingsObj = {
       'MangaFox',
       'MangaSee',
       'MangaFire',
-      'YugenAnime',
       'HiAnime',
       'Hulu',
       'Netflix',
@@ -62,6 +63,7 @@ export const settingsObj = {
       'MangaPlus',
       'MangaReader',
       'ComicK',
+      'WeebCentral',
     ],
     quicklinksPosition: 'default',
 
@@ -87,6 +89,7 @@ export const settingsObj = {
     notificationsSticky: true,
 
     bookMarksList: false,
+    bookMarksListManga: false,
 
     customDomains: [],
 
